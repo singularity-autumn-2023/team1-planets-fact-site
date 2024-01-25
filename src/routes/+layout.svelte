@@ -2,7 +2,6 @@
 import type { LayoutData } from "./$types";
 import "./global.css";
 import Header from "$lib/Header.svelte"
-  
 
     export let data:LayoutData; 
    

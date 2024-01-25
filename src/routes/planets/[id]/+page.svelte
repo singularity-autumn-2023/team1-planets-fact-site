@@ -1,4 +1,3 @@
-<!-- Your main component -->
 <script lang="ts">
   import type { PageData } from "./$types";
   import PlanetImage from "$lib/PlanetImage.svelte";
